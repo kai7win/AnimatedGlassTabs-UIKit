@@ -1,7 +1,7 @@
 # AnimatedGlassTabs-UIKit
 A UIKit iOS 26+ custom TabBar with liquid glass effect and animated tab icons.
 
-[中文版 README](README_CN.md)
+[中文版 README](README_CN.md) | [SwiftUI Version](https://github.com/kai7win/AnimatedGlassTabs)
 
 ## Demo
 ![Demo GIF](demo.gif)

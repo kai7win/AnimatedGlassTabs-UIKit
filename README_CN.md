@@ -1,7 +1,7 @@
 # AnimatedGlassTabs-UIKit
 一個支援 iOS 26+ 的 UIKit 自訂 TabBar，具有液態玻璃效果和動畫圖示。
 
-[English README](README.md)
+[English README](README.md) | [SwiftUI 版本](https://github.com/kai7win/AnimatedGlassTabs)
 
 ## 示範
 ![示範 GIF](demo.gif)
