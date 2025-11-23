@@ -174,7 +174,6 @@ class AnimationTabLayerView: UIView {
             image.tintColor = .label
             image.contentMode = .scaleAspectFit
             image.translatesAutoresizingMaskIntoConstraints = false
-            image.widthAnchor.constraint(equalToConstant: symbolSize.width).isActive = true
             image.heightAnchor.constraint(equalToConstant: symbolSize.height).isActive = true
             image.alpha = 0
             tabViews.append(image)
